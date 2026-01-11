@@ -26,4 +26,20 @@ source .venv/bin/activate  # mac/linux
 # .venv\Scripts\activate   # windows
 
 pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8000
+uvicorn app.main:app --reload --port 8000 
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Open:
+	•	Frontend: http://localhost:3000
+	•	Backend: http://127.0.0.1:8000
+	•	API base: http://127.0.0.1:8000/v1
+## Notes
+- Prototype uses demo data and mocked source adapters to demonstrate modular ingestion + unification.
+- Insights are directional and not medical advice.
