@@ -37,9 +37,10 @@ npm run dev
 ```
 
 Open:
-	•	Frontend: http://localhost:3000
-	•	Backend: http://127.0.0.1:8000
-	•	API base: http://127.0.0.1:8000/v1
+- Frontend: http://localhost:3000
+- Backend: http://127.0.0.1:8000
+- API base: http://127.0.0.1:8000/v1
+
 ## Notes
 - Prototype uses demo data and mocked source adapters to demonstrate modular ingestion + unification.
 - Insights are directional and not medical advice.
