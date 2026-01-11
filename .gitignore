@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+
+# virtualenvs
+.venv/
+venv/
+ENV/
+env/
+
+#OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Next.js / frontend
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+frontend/.turbo/
+frontend/.env*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Backend runtime artifacts
+backend/.venv/
+backend/**/__pycache__/
