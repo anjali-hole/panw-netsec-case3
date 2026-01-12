@@ -3,7 +3,7 @@
 A modular health & wellness dashboard that unifies daily metrics (sleep, activity, nutrition, vitals), surfaces correlations/anomalies, and provides actionable experiment prompts.
 
 ## Demo Video 
-- Video: 
+- Video: https://youtu.be/QqCRJLJFIaU
 
 ## Features
 - Dashboard: key metrics, daily brief, narrative “wellness story”, trends, and pattern cards
