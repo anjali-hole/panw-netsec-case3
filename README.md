@@ -5,6 +5,9 @@ A modular health & wellness dashboard that unifies daily metrics (sleep, activit
 ## Demo Video 
 - Video: https://youtu.be/QqCRJLJFIaU
 
+## Design Documentation
+- Can be found in DESIGN.md 
+
 ## Features
 - Dashboard: key metrics, daily brief, narrative “wellness story”, trends, and pattern cards
 - Insights: correlations + anomaly detection with actionable next steps
